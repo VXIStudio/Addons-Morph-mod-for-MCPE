@@ -7,9 +7,9 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": false,
-      "maps": false,
-      "texture": false,
+      "addon": true,
+      "maps": true,
+      "texture": true,
       "skin": false,
       "more": false,
       
@@ -37,33 +37,313 @@
     }
   ],
   "Addon": [
+{
+        "name": "Morph Addon",
+        "role": "[ALPHA]Have you been wondering how to be a mob just like the zombie or creeper? Well now, you can be a mob now using this addon. This addon makes you morph into mobs like pigs or cows.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/1/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/1/Morph_Addon (1).mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/1/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/1/satu.png"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Cda's Morph [ALPHA]",
+        "role": "Cda's Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the hostile mobs as stated by Minecraft Gamepedia. You are able to morph into mobs and take their appearance, abilities, and more using items that you can either craft or get by killing a mob.  Please note that I am fully, 100% aware of many issues. I am working on fixing them. For a question like 'It doesn't work', (because it works) check the troubleshooting section. If you have issues with that, then contact me. For something that you think is a bug, report it on GitHub if it hasn't already been reported. This add-on allows you to morph into any mob. With this add-on you have at your disposal 71 different mobs Morph items that you may use to morph into the mobs, as well as an item to morph back into your regular Player.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/2/cdasMorphV0.0.7.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png"
+    },
+    {
+        "name": "DG Morph Add-On",
+        "role": "DG Morph Add-On Morph Mod for Minecraft Pocket/Bedrock Edition, You can Morph in any differents mobs in your world, also this mod pack tested and used in Minecraft 1.17 Update. .  Using this Morph Add-On you can Morph in differents variants mobs skins and you will have the ability of every mobs that you morph.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/3/dua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/3/DG Morph v1 [no Models].mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/3/tiga.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/3/satu.png"
+    },
+    {
+        "name": "Block Disguise Add-on",
+        "role": "Have you ever wanted to disguise or morph as a block, and camouflage skins weren't good enough? Well this is the addon for you! If you stand still for 3 seconds, you will become completely hidden as a block! The morphs are also craftable.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/5/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/5/blockdisguise.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/5/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/5/dua.png"
+    },
+    {
+        "name": "Dragon Morph Add-on",
+        "role": "This is an add-on which lets you morph into an ender dragon with the flying effect. Experience Minecraft as the one and only Ender Dragon - definitely something else than playing as Steve or Alex! ;)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/8/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/8/Ender_dragon_morph.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/8/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/8/dua.png"
+    },
+    {
+        "name": "Shinobi Add-On",
+        "role": "Did you want to add Naruto to minecraft, too? That's why I did the addon. There's a lot of shinobi bandage, byakugan, sharingan, clans, food, morph. There are three varieties of sharingan. I'll soon improve the addon, enjoy",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/11/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/11/ShinobiAddon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/11/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/11/dua.png"
+    },
+    {
+        "name": "Ghasts+ Addon",
+        "role": "This Addon adds more Ghasts into the game but they are not just Ghasts, they have been morphed into other mobs like a Creeper, Enderman and even a Bee! If you like addons like this, read more about it! (Suggest more Ghast morphs in the comments!)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/12/lima.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/12/Ghasts_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/12/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/12/dua.png"
+    },
+    {
+        "name": "LiL's Keplerians Horror Addon v5",
+        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/13/enam.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/13/LiLs_Keplerians_Horror_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/13/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/13/dua.jpeg"
+    },
+    {
+        "name": "Hog's Morphs",
+        "role": "Hog's Morph Is an addon I Hog have made. I still want to add more morphs to this addon and I will update soon. The addon adds some mobs all their stats and abilities with them.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/14/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/14/Hogs Morph.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/14/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/14/dua.png"
+    },
+    {
+        "name": "Shinobi Add-On",
+        "role": "Did you want to add Naruto to minecraft, too? That's why I did the addon. There's a lot of shinobi bandage, byakugan, sharingan, clans, food, morph. There are three varieties of sharingan. I'll soon improve the addon, enjoy",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/15/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/15/ShinobiAddon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/15/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/15/dua.png"
+    },
+    {
+        "name": "Xans Addon || Fire and Ice Sans Addon",
+        "role": "Do you like Undervirus? Do you want the Xans character from Undervirus to appear in Minecraft? Here I made an UnderVirus addon, namely Xans. This Xans is not weak, it is very strong. Me and the other addon creators are all tired of making addons, and we make those things entertaining for everyone. So if you don't like it, please go to another place and download another addon. DO NOT BE LIKE A KID",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/16/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/16/xans v3.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/16/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/16/dua.png"
+    },
+    {
+        "name": "Magical Spells [v1.0.2]",
+        "role": "The Magical Spells addon adds magic XP, levels, and mana systems to the game. As well as spells that require magic levels and mana to use, and finally, bosses to fight using these spells.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/19/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/19/Magical Spells[v1.0.2].mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/19/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/19/dua.png"
+    },
+    {
+        "name": "Creepypasta Addon v1",
+        "role": "Creepypasta is a place to gather characters, fictional stories that cause obsession, horror. Typically Slenderman, Jeff the Killer, Laughing fack, Smile dog,... all of these are very famous on the internet.And this addon will remake some creepypasta characters into Minecraft BE [PE]",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/22/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/22/Creepypasta_Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/22/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/22/dua.png"
+    },
+    {
+        "name": "Morph Mob (Boss) Addon",
+        "role": "This add-on implements a whole new danger to your Minecraft game while fighting hostile mobs and that's the Morpher. The Morpher is the name of a new mob which can turn into almost any other mob. It tracks down the closest mob and then transforms into it. It does this mainly as a way to camouflage as it short there after will chase down its true enemy. Keep your pets well protected from the Morpher or soon they will all be possessed by this demon!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/23/dua.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/23/Morph Mob.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/23/tiga.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/23/satu.jpg"
+    },
+    {
+        "name": "Plants Vs Zombies Garden Warfare Morph Update!",
+        "role": "Are you a huge fan of PvZ Garden Warfare?Then this is the right addon for you!This Addon brings the feeling of playing PvZ GW but in Minecraft!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/24/saru.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/24/Gw.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/24/emopat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/24/dua.png"
+    },
+    {
+        "name": "Dragon Morph Addon",
+        "role": "Ender Dragons are majestic creatures right? Wouldn't it be cool if you could become one. This addon makes it possible! Turning into one isn't going to be that easy though. To begin becoming a dragon you are going to need to place a command block down and type in /function dragonmorph Put it to repeat and always active to make it work correctly. Then, you're going to need a few different things. First, you must craft 4 elemental gems crafting recipes are below.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/25/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/25/dragonmorph.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/25/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/25/dua.png"
+    },
+    {
+        "name": "AJModsMCPE Mod",
+        "role": "This mod adds a modded menu to the game which can be used to enable a ton of otherwise unknown features to Minecraft Pocket Edition. Some of them include the possibility to pause the game, climb high walls, walk on liquids such as water and lava and a whole lot of other options. It's a really fun mod to play around with and offers many things which probably should be considered cheats. But as long it's done in your own singleplayer worlds there's really no unfair advantages to other players.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/27/tiga.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/27/ZombieAddon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/27/satu.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/27/empat.jpg"
+    },
+    {
+        "name": "DG Morph Add-On",
+        "role": "DG Morph Add-On Morph Mod for Minecraft Pocket/Bedrock Edition, You can Morph in any differents mobs in your world, also this mod pack tested and used in Minecraft 1.17 Update. .",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/33/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/33/DG Morph v1 [with Models].mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/33/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/33/1.png"
+    },
+    {
+        "name": "Dragon Morph Add-on",
+        "role": "This is an add-on which lets you morph into an ender dragon with the flying effect. Experience Minecraft as the one and only Ender Dragon - definitely something else than playing as Steve or Alex! ;)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/36/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/36/Ender_dragon_morph.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/36/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/36/1.png"
+    },
+    {
+        "name": "Zombie Morph Addon",
+        "role": "Are you boring being a human? Don't worry. This addon will make you become a zombie and a drowned. You will live like a zombie hunting villagers and burn when the sun rises.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/40/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/40/ZombieAddon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/40/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/40/1.jpg"
+    },
+    {
+        "name": "Morph Mob (Boss) Addon",
+        "role": "This add-on implements a whole new danger to your Minecraft game while fighting hostile mobs and that's the Morpher.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/41/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/41/Morph Mob.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/41/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/41/1.png"
+    },
+    {
+        "name": "Dragon Morph Addon",
+        "role": "Ender Dragons are majestic creatures right? Wouldn't it be cool if you could become one. This addon makes it possible! Turning into one isn't going to be that easy though.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/42/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/42/dragonmorph.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/42/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/42/1.png"
     }
   ],
   "Map": [
+{
+        "name": "Morph Machine",
+        "role": "In this map you have a machine that can turn you into other mobs. This machine is entirely made by commands. This map is pretty old to if I'd say so myself but I had just renovated it to a better state. More updates to the map will be on the way!There are currently 5 mobs you can choose from in the mob room (soon to be expanded) and when you push the button to transform it will apply the mob to you. To change back to normal you must simply hit the mob.You should do this in third person because you may not be able to see in first person. Also don't have any extra people join the game because it will mess the machine up sometimes",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/4/enam.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/4/tEiWXr51AAA.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/4/empat.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/4/dua.jpeg"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Morphing",
+        "role": "best morphing entut",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/6/satu.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/6/The Morphing Machine V2.0.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/6/satu.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/6/dua.jpg"
+    },
+    {
+        "name": "PenguinPvP V2 (Morph Hunt, Flooding, & More)",
+        "role": "A minigame map with 7 games so far. It has a morph hunt game, a Flooding parkour game, a TNT Run game, Skywars, Minigames, Kit PVP, and Survival Walls. Every game auto resets. TNT Run and Flooding can be played with one player. The others require at least 2. Fixed import",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/9/dua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/9/penguin-pvp-v2-1.0.1_1604116309.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/9/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/9/dua.png"
+    },
+    {
+        "name": "Zhaox's Awesome CommandBlock World!",
+        "role": "This command block world shows you all of my creations that I've made, this world was used to be for testing but since it brought to my interest that maybe I could make it a map, where I can show you my command block skills. This world includes simple and unique commands. From most common to rare creations, I can't wait to show you what I've put my effort to. This world was originally made from Pocket Edition. I started building this world in 2019 as a test world.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/18/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/18/Zhaoxs-Awesome-CB-World_1587058589.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/18/emppat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/18/dua.png"
+    },
+    {
+        "name": "Morph Parkour",
+        "role": "It's a Parkour map where you'll have to pass several tests along your way. Unlike conventional maps here you won't play like Steve, but you'll play like a Minecraft creature. Each entity has its own special powers!. The map is intended for a single player.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/26/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/26/Morph Parkour.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/26/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/26/dyua.png"
+    },
+    {
+        "name": "Morph System (Command Blocks)",
+        "role": "Minecraft: Bedrock Edition Morphs either require you to know about commands, (like a function pack) or they are off and don't face the direction you're looking at. Well this world is easy to use and the mobs face the direction you're facing!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/28/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/28/Morph.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/28/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/28/empat.png"
+    },
+    {
+        "name": "Joey Drew Studios Bendy",
+        "role": "Ever wanted a bendy world with the bendy add on V3.1? And all the chapters in one world? WELL NOW YOU CAN! With this world dreams really do come true. So grab your weapon and adventure Into the ink filled studio hey this world is so great you might never want to leave.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/29/satu'.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/29/JoeyDrewStudios.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/29/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/29/dua.png"
+    },
+    {
+        "name": "10 Unique Command Block Creations",
+        "role": "command blocks are a type of block in minecraft which can execute commands automatically, To get one simply type 'give @s command_block' into the in-game chat! Now your ready to go! But what's that? you need some inspiration? Well, dear reader, you've come to the right place! To demonstrate the power of these little blocky machines, ive compiled a map featuring 10 unique creations which were created with the power of commands! If you so wish, feel free to go into creative mode and check out the commands themselves, you This map features 10 (+1 by Imperial archive) completely unique command block creations, varying from a skeleton you can dress up, to a UFO that ubducts you, theres something to grab anyone's interest!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/30/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/30/L77s-10-Cmd-block-creations-1_1595431888.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/30/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/30/dua.png"
+    },
+    {
+        "name": "Wither Skeleton Morph",
+        "role": "This map is a map using commands to create a wither skeleton morph with special abilities, unlike actual wither skeleton mobs, you have completely different abilities to them. This map was made as a showcase map, intended for players to either actually use it for survival, ignoring the showcase area, or look at the showcase and try it out themself.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/34/Wither Skelly Morph.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png"
+    },
+    {
+        "name": "Morph Machine",
+        "role": "In this map you have a machine that can turn you into other mobs. This machine is entirely made by commands. This map is pretty old to if I'd say so myself but I had just renovated it to a better state.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/35/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/35/tEiWXr51AAA.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/35/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/35/2.jpeg"
+    },
+    {
+        "name": "Morph System (Command Blocks)",
+        "role": "Minecraft: Bedrock Edition Morphs either require you to know about commands, (like a function pack) or they are off and don't face the direction you're looking at. Well this world is easy to use and the mobs face the direction you're facing!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/39/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/39/Morph.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/39/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/39/1.png"
+    },
+    {
+        "name": "Snowblock [MORPH] [Auto-Miner] [Shops]",
+        "role": "A unique never before used idea for skyblock. This skyblock map, is a little different. Are you tired of grinding cobblestone for hours just to build a small bridge? Well in this unique map, it’s far easier.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/44/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/44/snowblock_morphs.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/44/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/44/1.png"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Morph Addon Official 1.0 (R)",
+        "role": "Have you ever dreamed of being able to play as a zombie or a skeleton and not the usual steve? Have you ever dreamed of being able to swim with the freedom of a drowned or to walk safely on lava like a strider? If the answer is yes this add-on is for you!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/7/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/7/Morph 1.0 R.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/7/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/7/dua.png"
+    },
+    {
+        "name": "Morph Addon Official 1.0 (B)",
+        "role": "Have you ever dreamed of being able to play as a zombie or a skeleton and not the usual steve? Have you ever dreamed of being able to swim with the freedom of a drowned or to walk safely on lava like a strider? If the answer is yes this add-on is for you!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/7/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/7/Morph 1.0 B.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/7/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/7/dua.png"
+    },
+    {
+        "name": "Mob Morphing Addon",
+        "role": "Have you ever wanted to become a mob in Minecraft? This Addon gives you the ability to turn into, or morph, into any mob you want! To become a mob you have to spawn it or just find one already in the world, then bump it, and you will become that mob! Creator: JEBR_Gaming, Twitter Account",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/17/satu.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/17/Mob Morphing Addon.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/17/dua.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/17/dua.jpg"
+    },
+    {
+        "name": "Visual Morph Beta (Function's Pack) [1.11+]",
+        "role": "Visually morph your character to a diffrent look and feel! Be a Bat, act as a Villager, or even hide from others by morphing! MorphMinus provides a morphed experience, that can be enough for your needs!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/32/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/32/VisualMorph v1.5.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/32/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/32/1.png"
     }
   ],
   "Skins": [
